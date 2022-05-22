@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Just a sample on how to test react componnets using snapshot testing 1`] = `
+<div>
+  Dummy
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div>
+  Dummy
+</div>
+`;
